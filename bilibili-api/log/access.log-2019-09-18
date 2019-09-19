@@ -1,0 +1,254 @@
+[2019-09-18T16:51:03.235] [INFO] http - ====== Visit api server ======
+[2019-09-18T16:51:03.236] [INFO] http - url: /ranking/0
+[2019-09-18T16:51:03.237] [INFO] http - origin: undefined
+[2019-09-18T16:51:03.237] [INFO] http - query: {}
+[2019-09-18T16:51:03.237] [INFO] http - body: {}
+[2019-09-18T16:51:03.262] [INFO] http - ====== Visit api server ======
+[2019-09-18T16:51:03.262] [INFO] http - url: /index
+[2019-09-18T16:51:03.262] [INFO] http - origin: undefined
+[2019-09-18T16:51:03.263] [INFO] http - query: {}
+[2019-09-18T16:51:03.263] [INFO] http - body: {}
+[2019-09-18T16:51:03.264] [INFO] http - ====== Visit api server ======
+[2019-09-18T16:51:03.264] [INFO] http - url: /round-sowing
+[2019-09-18T16:51:03.264] [INFO] http - origin: undefined
+[2019-09-18T16:51:03.264] [INFO] http - query: {}
+[2019-09-18T16:51:03.264] [INFO] http - body: {}
+[2019-09-18T16:51:03.660] [INFO] http - ====== Visit api server ======
+[2019-09-18T16:51:03.660] [INFO] http - url: /transfer/image?pic=http://i0.hdslb.com/bfs/archive/62252f83684745bf1e6a5bfdef285adab910f7f2.jpg@480w_300h.jpg
+[2019-09-18T16:51:03.660] [INFO] http - referer: http://localhost:3010/index
+[2019-09-18T16:51:03.663] [INFO] http - ====== Visit api server ======
+[2019-09-18T16:51:03.663] [INFO] http - url: /transfer/image?pic=http://i0.hdslb.com/bfs/archive/4aaa192940511b930454922a94d64ff63a547fd8.jpg@480w_300h.jpg
+[2019-09-18T16:51:03.663] [INFO] http - referer: http://localhost:3010/index
+[2019-09-18T16:51:03.778] [INFO] http - ====== Visit api server ======
+[2019-09-18T16:51:03.778] [INFO] http - url: /transfer/image?pic=http://i0.hdslb.com/bfs/archive/91f4cf33863e2670ac7c745e83f1c188a3113e48.png@480w_300h.jpg
+[2019-09-18T16:51:03.778] [INFO] http - referer: http://localhost:3010/index
+[2019-09-18T16:51:03.778] [INFO] http - ====== Visit api server ======
+[2019-09-18T16:51:03.778] [INFO] http - url: /transfer/image?pic=http://i0.hdslb.com/bfs/archive/9eb53196a57f98902a6330c9758639b028e539fe.png@480w_300h.jpg
+[2019-09-18T16:51:03.778] [INFO] http - referer: http://localhost:3010/index
+[2019-09-18T16:51:04.381] [INFO] http - ====== Visit api server ======
+[2019-09-18T16:51:04.381] [INFO] http - url: /transfer/image?pic=http://i2.hdslb.com/bfs/archive/2c8ae75cccf237e905197915f7f69e6e8bbd6332.png@320w_200h.jpg
+[2019-09-18T16:51:04.381] [INFO] http - referer: http://localhost:3010/index
+[2019-09-18T16:51:04.382] [INFO] http - ====== Visit api server ======
+[2019-09-18T16:51:04.382] [INFO] http - url: /transfer/image?pic=http://i2.hdslb.com/bfs/archive/ce451a6cc25bf66ca1f1410b32d888c5963831a4.jpg@320w_200h.jpg
+[2019-09-18T16:51:04.382] [INFO] http - referer: http://localhost:3010/index
+[2019-09-18T17:09:17.162] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:17.167] [INFO] http - url: /transfer/image?pic=http://i1.hdslb.com/bfs/archive/606fe8cd0feea4b6118847558d81e48487fe0b6f.jpg@320w_200h.jpg
+[2019-09-18T17:09:17.167] [INFO] http - referer: http://localhost:3010/index
+[2019-09-18T17:09:17.193] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:17.193] [INFO] http - url: /transfer/image?pic=http://i2.hdslb.com/bfs/archive/66f1ad4319950a8de9ae011090a3248cdc8023de.jpg@320w_200h.jpg
+[2019-09-18T17:09:17.193] [INFO] http - referer: http://localhost:3010/index
+[2019-09-18T17:09:17.194] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:17.194] [INFO] http - url: /transfer/image?pic=http://i2.hdslb.com/bfs/archive/e46af018c0dfb1286a055db4718bb9acb8edf163.jpg@320w_200h.jpg
+[2019-09-18T17:09:17.194] [INFO] http - referer: http://localhost:3010/index
+[2019-09-18T17:09:17.195] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:17.195] [INFO] http - url: /transfer/image?pic=http://i0.hdslb.com/bfs/archive/36ec8e0f58158e72398b6d6efd991f66a4928535.jpg@320w_200h.jpg
+[2019-09-18T17:09:17.195] [INFO] http - referer: http://localhost:3010/index
+[2019-09-18T17:09:17.249] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:17.249] [INFO] http - url: /transfer/image?pic=http://i1.hdslb.com/bfs/archive/b40638a3783b385f5fc1ac577b8462c8535cb86d.jpg@320w_200h.jpg
+[2019-09-18T17:09:17.249] [INFO] http - referer: http://localhost:3010/index
+[2019-09-18T17:09:17.256] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:17.256] [INFO] http - url: /transfer/image?pic=http://i0.hdslb.com/bfs/archive/23a6c948108f0bcdc488f516305545567620b773.jpg@320w_200h.jpg
+[2019-09-18T17:09:17.256] [INFO] http - referer: http://localhost:3010/index
+[2019-09-18T17:09:17.328] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:17.328] [INFO] http - url: /transfer/image?pic=http://i1.hdslb.com/bfs/archive/60ba3d9afba328d77ceefae867f1d94d79587756.jpg@320w_200h.jpg
+[2019-09-18T17:09:17.328] [INFO] http - referer: http://localhost:3010/index
+[2019-09-18T17:09:17.329] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:17.329] [INFO] http - url: /transfer/image?pic=http://i0.hdslb.com/bfs/archive/0b4a75f7e55b545d33f39fab49cf43c67c27292a.jpg@320w_200h.jpg
+[2019-09-18T17:09:17.329] [INFO] http - referer: http://localhost:3010/index
+[2019-09-18T17:09:17.376] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:17.376] [INFO] http - url: /transfer/image?pic=http://i2.hdslb.com/bfs/archive/98aa2926bdcd2680d62860908dd0e07e05cdb10e.jpg@320w_200h.jpg
+[2019-09-18T17:09:17.376] [INFO] http - referer: http://localhost:3010/index
+[2019-09-18T17:09:17.387] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:17.387] [INFO] http - url: /transfer/image?pic=http://i0.hdslb.com/bfs/archive/c5062f721dc160db18623ad79337bc8a340bd48b.jpg@320w_200h.jpg
+[2019-09-18T17:09:17.388] [INFO] http - referer: http://localhost:3010/index
+[2019-09-18T17:09:18.932] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:18.932] [INFO] http - url: /partitions
+[2019-09-18T17:09:18.932] [INFO] http - origin: undefined
+[2019-09-18T17:09:18.932] [INFO] http - query: {}
+[2019-09-18T17:09:18.932] [INFO] http - body: {}
+[2019-09-18T17:09:19.587] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:19.588] [INFO] http - url: /ranking/region?rId=1&day=7
+[2019-09-18T17:09:19.588] [INFO] http - origin: http://localhost:3010
+[2019-09-18T17:09:19.588] [INFO] http - query: {"rId":"1","day":"7"}
+[2019-09-18T17:09:19.588] [INFO] http - body: {}
+[2019-09-18T17:09:19.590] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:19.590] [INFO] http - url: /ranking/region?rId=24&day=7
+[2019-09-18T17:09:19.590] [INFO] http - origin: http://localhost:3010
+[2019-09-18T17:09:19.590] [INFO] http - query: {"rId":"24","day":"7"}
+[2019-09-18T17:09:19.590] [INFO] http - body: {}
+[2019-09-18T17:09:19.594] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:19.594] [INFO] http - url: /ranking/region?rId=25&day=7
+[2019-09-18T17:09:19.594] [INFO] http - origin: http://localhost:3010
+[2019-09-18T17:09:19.594] [INFO] http - query: {"rId":"25","day":"7"}
+[2019-09-18T17:09:19.594] [INFO] http - body: {}
+[2019-09-18T17:09:19.595] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:19.595] [INFO] http - url: /ranking/region?rId=47&day=7
+[2019-09-18T17:09:19.596] [INFO] http - origin: http://localhost:3010
+[2019-09-18T17:09:19.596] [INFO] http - query: {"rId":"47","day":"7"}
+[2019-09-18T17:09:19.596] [INFO] http - body: {}
+[2019-09-18T17:09:19.598] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:19.598] [INFO] http - url: /ranking/region?rId=27&day=7
+[2019-09-18T17:09:19.598] [INFO] http - origin: http://localhost:3010
+[2019-09-18T17:09:19.599] [INFO] http - query: {"rId":"27","day":"7"}
+[2019-09-18T17:09:19.599] [INFO] http - body: {}
+[2019-09-18T17:09:19.600] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:19.600] [INFO] http - url: /ranking/region?rId=86&day=7
+[2019-09-18T17:09:19.600] [INFO] http - origin: http://localhost:3010
+[2019-09-18T17:09:19.600] [INFO] http - query: {"rId":"86","day":"7"}
+[2019-09-18T17:09:19.600] [INFO] http - body: {}
+[2019-09-18T17:09:19.684] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:19.684] [INFO] http - url: /ranking/partitions
+[2019-09-18T17:09:19.684] [INFO] http - origin: http://localhost:3010
+[2019-09-18T17:09:19.685] [INFO] http - query: {}
+[2019-09-18T17:09:19.685] [INFO] http - body: {}
+[2019-09-18T17:09:19.902] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:19.902] [INFO] http - url: /transfer/image?pic=http://i1.hdslb.com/bfs/archive/b070350eda613ad7bcd7cd595dbeab372e789f22.jpg@320w_200h.jpg
+[2019-09-18T17:09:19.902] [INFO] http - referer: http://localhost:3010/channel/1
+[2019-09-18T17:09:19.903] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:19.903] [INFO] http - url: /transfer/image?pic=http://i2.hdslb.com/bfs/archive/15d6e25f0cf25b217bcb787e16cc35337d4ebe12.jpg@320w_200h.jpg
+[2019-09-18T17:09:19.903] [INFO] http - referer: http://localhost:3010/channel/1
+[2019-09-18T17:09:19.933] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:19.933] [INFO] http - url: /transfer/image?pic=http://i2.hdslb.com/bfs/archive/b31cf7b78c92b817aefe210b94c79354967b3710.jpg@320w_200h.jpg
+[2019-09-18T17:09:19.933] [INFO] http - referer: http://localhost:3010/channel/1
+[2019-09-18T17:09:19.934] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:19.934] [INFO] http - url: /transfer/image?pic=http://i0.hdslb.com/bfs/archive/dc0b8a56cb8ae7255624c4e1ed9aeef28579032d.jpg@320w_200h.jpg
+[2019-09-18T17:09:19.934] [INFO] http - referer: http://localhost:3010/channel/1
+[2019-09-18T17:09:19.935] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:19.935] [INFO] http - url: /transfer/image?pic=http://i0.hdslb.com/bfs/archive/f8625e0c598bbde5a83c0361d50cd1ca7364c0b3.jpg@320w_200h.jpg
+[2019-09-18T17:09:19.935] [INFO] http - referer: http://localhost:3010/channel/1
+[2019-09-18T17:09:19.937] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:19.937] [INFO] http - url: /transfer/image?pic=http://i1.hdslb.com/bfs/archive/67c5ca3fd1917f979a45dfbcabe73f26794e3aaf.jpg@320w_200h.jpg
+[2019-09-18T17:09:19.937] [INFO] http - referer: http://localhost:3010/channel/1
+[2019-09-18T17:09:20.233] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:20.233] [INFO] http - url: /transfer/image?pic=http://i0.hdslb.com/bfs/archive/4413df7b190091b48fea0c5a3450fd4a4c2c2a22.jpg@320w_200h.jpg
+[2019-09-18T17:09:20.233] [INFO] http - referer: http://localhost:3010/channel/1
+[2019-09-18T17:09:20.234] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:20.234] [INFO] http - url: /transfer/image?pic=http://i0.hdslb.com/bfs/archive/860007b17c408ee47a46f97ab62bc309306a0ed4.jpg@320w_200h.jpg
+[2019-09-18T17:09:20.234] [INFO] http - referer: http://localhost:3010/channel/1
+[2019-09-18T17:09:20.284] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:20.284] [INFO] http - url: /transfer/image?pic=http://i1.hdslb.com/bfs/archive/d4578da7cd043e7db8d7e786164737ae958cbd7f.jpg@320w_200h.jpg
+[2019-09-18T17:09:20.284] [INFO] http - referer: http://localhost:3010/channel/1
+[2019-09-18T17:09:20.285] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:20.285] [INFO] http - url: /transfer/image?pic=http://i2.hdslb.com/bfs/archive/f4da67609005db75f5e0eaa6005d0e7806a2a865.jpg@320w_200h.jpg
+[2019-09-18T17:09:20.285] [INFO] http - referer: http://localhost:3010/channel/1
+[2019-09-18T17:09:20.324] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:20.325] [INFO] http - url: /transfer/image?pic=http://i2.hdslb.com/bfs/archive/f636ba29e87c597166dc7c22d7477b0279f4bbe0.jpg@320w_200h.jpg
+[2019-09-18T17:09:20.325] [INFO] http - referer: http://localhost:3010/channel/1
+[2019-09-18T17:09:20.326] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:20.326] [INFO] http - url: /transfer/image?pic=http://i1.hdslb.com/bfs/archive/6f65ff6efe810564c502151f983867fb9736a309.png@320w_200h.jpg
+[2019-09-18T17:09:20.326] [INFO] http - referer: http://localhost:3010/channel/1
+[2019-09-18T17:09:20.448] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:20.448] [INFO] http - url: /transfer/image?pic=http://i1.hdslb.com/bfs/archive/1c57d1c4ef97292dee2daf53dc4cd96a4f0c7a03.jpg@320w_200h.jpg
+[2019-09-18T17:09:20.448] [INFO] http - referer: http://localhost:3010/channel/1
+[2019-09-18T17:09:21.280] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:21.280] [INFO] http - url: /av/67522500
+[2019-09-18T17:09:21.280] [INFO] http - origin: undefined
+[2019-09-18T17:09:21.280] [INFO] http - query: {}
+[2019-09-18T17:09:21.280] [INFO] http - body: {}
+[2019-09-18T17:09:21.745] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:21.746] [INFO] http - url: /transfer/image?pic=http://i0.hdslb.com/bfs/archive/4413df7b190091b48fea0c5a3450fd4a4c2c2a22.jpg@400w_300h.jpg
+[2019-09-18T17:09:21.746] [INFO] http - referer: http://localhost:3010/video/av67522500
+[2019-09-18T17:09:21.812] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:21.812] [INFO] http - url: /transfer/mp4?video=https:%2F%2Fupos-hz-mirrorkodou.acgvideo.com%2Fupgcxcode%2F66%2F04%2F117070466%2F117070466-1-6.mp4%3Fe%3Dig8euxZM2rNcNbug7WdVtWug7WdVNEVEuCIv29hEn0l5QK%3D%3D%26uipk%3D5%26nbs%3D1%26deadline%3D1568804961%26gen%3Dplayurl%26os%3Dkodou%26oi%3D244421526%26trid%3Ddfb54d6740eb46839f4783734bced06bh%26platform%3Dhtml5%26upsig%3D2f62048f0b0b23817a43bf5d7ed818e4%26uparams%3De%2Cuipk%2Cnbs%2Cdeadline%2Cgen%2Cos%2Coi%2Ctrid%2Cplatform%26mid%3D0
+[2019-09-18T17:09:21.812] [INFO] http - referer: http://localhost:3010/video/av67522500
+[2019-09-18T17:09:22.241] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:22.241] [INFO] http - url: /av/barrage/117070466
+[2019-09-18T17:09:22.241] [INFO] http - origin: http://localhost:3010
+[2019-09-18T17:09:22.241] [INFO] http - query: {}
+[2019-09-18T17:09:22.241] [INFO] http - body: {}
+[2019-09-18T17:09:22.242] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:22.242] [INFO] http - url: /av/recommend/67522500
+[2019-09-18T17:09:22.242] [INFO] http - origin: http://localhost:3010
+[2019-09-18T17:09:22.242] [INFO] http - query: {}
+[2019-09-18T17:09:22.242] [INFO] http - body: {}
+[2019-09-18T17:09:22.245] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:22.245] [INFO] http - url: /av/replay?aId=67522500&p=1
+[2019-09-18T17:09:22.245] [INFO] http - origin: http://localhost:3010
+[2019-09-18T17:09:22.245] [INFO] http - query: {"aId":"67522500","p":"1"}
+[2019-09-18T17:09:22.245] [INFO] http - body: {}
+[2019-09-18T17:09:22.434] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:22.434] [INFO] http - url: /transfer/mp4?video=https:%2F%2Fupos-hz-mirrorkodou.acgvideo.com%2Fupgcxcode%2F66%2F04%2F117070466%2F117070466-1-6.mp4%3Fe%3Dig8euxZM2rNcNbug7WdVtWug7WdVNEVEuCIv29hEn0l5QK%3D%3D%26uipk%3D5%26nbs%3D1%26deadline%3D1568804961%26gen%3Dplayurl%26os%3Dkodou%26oi%3D244421526%26trid%3Ddfb54d6740eb46839f4783734bced06bh%26platform%3Dhtml5%26upsig%3D2f62048f0b0b23817a43bf5d7ed818e4%26uparams%3De%2Cuipk%2Cnbs%2Cdeadline%2Cgen%2Cos%2Coi%2Ctrid%2Cplatform%26mid%3D0
+[2019-09-18T17:09:22.434] [INFO] http - referer: undefined
+[2019-09-18T17:09:22.535] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:22.535] [INFO] http - url: /transfer/mp4?video=https:%2F%2Fupos-hz-mirrorkodou.acgvideo.com%2Fupgcxcode%2F66%2F04%2F117070466%2F117070466-1-6.mp4%3Fe%3Dig8euxZM2rNcNbug7WdVtWug7WdVNEVEuCIv29hEn0l5QK%3D%3D%26uipk%3D5%26nbs%3D1%26deadline%3D1568804961%26gen%3Dplayurl%26os%3Dkodou%26oi%3D244421526%26trid%3Ddfb54d6740eb46839f4783734bced06bh%26platform%3Dhtml5%26upsig%3D2f62048f0b0b23817a43bf5d7ed818e4%26uparams%3De%2Cuipk%2Cnbs%2Cdeadline%2Cgen%2Cos%2Coi%2Ctrid%2Cplatform%26mid%3D0
+[2019-09-18T17:09:22.535] [INFO] http - referer: undefined
+[2019-09-18T17:09:22.970] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:22.970] [INFO] http - url: /transfer/image?pic=https://i2.hdslb.com/bfs/archive/3315669bb47df8463c782d28164c686668aa6c74.jpg@320w_200h.jpg
+[2019-09-18T17:09:22.970] [INFO] http - referer: http://localhost:3010/video/av67522500
+[2019-09-18T17:09:22.971] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:22.972] [INFO] http - url: /transfer/image?pic=https://i1.hdslb.com/bfs/archive/58949e02d2fdefc5822ed18686f0b0e7d6ee56ca.jpg@320w_200h.jpg
+[2019-09-18T17:09:22.972] [INFO] http - referer: http://localhost:3010/video/av67522500
+[2019-09-18T17:09:22.973] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:22.973] [INFO] http - url: /transfer/image?pic=https://i2.hdslb.com/bfs/archive/dd787c8e07f70399e23c648302b3eb18594de57e.jpg@320w_200h.jpg
+[2019-09-18T17:09:22.973] [INFO] http - referer: http://localhost:3010/video/av67522500
+[2019-09-18T17:09:22.975] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:22.975] [INFO] http - url: /transfer/image?pic=https://i2.hdslb.com/bfs/archive/7a06a4aa1f1d7395e17c386de62c8806ca121aed.jpg@320w_200h.jpg
+[2019-09-18T17:09:22.976] [INFO] http - referer: http://localhost:3010/video/av67522500
+[2019-09-18T17:09:23.186] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:23.187] [INFO] http - url: /transfer/image?pic=https://i1.hdslb.com/bfs/archive/bbb1955c72617e8ebf1532f7fcc4959663baa6dd.jpg@320w_200h.jpg
+[2019-09-18T17:09:23.187] [INFO] http - referer: http://localhost:3010/video/av67522500
+[2019-09-18T17:09:23.289] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:23.289] [INFO] http - url: /transfer/image?pic=https://i2.hdslb.com/bfs/archive/c23357a64165560c31b453a92b9977ab859a980f.jpg@320w_200h.jpg
+[2019-09-18T17:09:23.289] [INFO] http - referer: http://localhost:3010/video/av67522500
+[2019-09-18T17:09:23.319] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:23.319] [INFO] http - url: /transfer/image?pic=https://i1.hdslb.com/bfs/archive/d9ea2cb961708845afa94296ed12e482b5f6b16f.jpg@320w_200h.jpg
+[2019-09-18T17:09:23.320] [INFO] http - referer: http://localhost:3010/video/av67522500
+[2019-09-18T17:09:23.382] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:23.382] [INFO] http - url: /transfer/image?pic=https://i2.hdslb.com/bfs/archive/9df219a3e5e39e6fb10123d267ee9c186880e465.jpg@320w_200h.jpg
+[2019-09-18T17:09:23.382] [INFO] http - referer: http://localhost:3010/video/av67522500
+[2019-09-18T17:09:26.860] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:26.860] [INFO] http - url: /transfer/image?pic=https://i1.hdslb.com/bfs/archive/e909230a4da5eed1efd403e5331ed25da35bfe66.png@320w_200h.jpg
+[2019-09-18T17:09:26.860] [INFO] http - referer: http://localhost:3010/video/av67522500
+[2019-09-18T17:09:26.904] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:26.904] [INFO] http - url: /transfer/image?pic=https://i0.hdslb.com/bfs/archive/d8a58c9dec091533e954670a2869f98c658c5f6e.jpg@320w_200h.jpg
+[2019-09-18T17:09:26.904] [INFO] http - referer: http://localhost:3010/video/av67522500
+[2019-09-18T17:09:26.921] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:26.921] [INFO] http - url: /transfer/image?pic=https://i1.hdslb.com/bfs/archive/432de879f9df80061c50db90747cd860c3d7679c.jpg@320w_200h.jpg
+[2019-09-18T17:09:26.921] [INFO] http - referer: http://localhost:3010/video/av67522500
+[2019-09-18T17:09:27.271] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:27.271] [INFO] http - url: /transfer/image?pic=https://i1.hdslb.com/bfs/archive/05641fbb20ae981bfc83339d33b8eead931741fa.jpg@320w_200h.jpg
+[2019-09-18T17:09:27.271] [INFO] http - referer: http://localhost:3010/video/av67522500
+[2019-09-18T17:09:27.373] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:27.373] [INFO] http - url: /transfer/image?pic=https://i1.hdslb.com/bfs/archive/a7ef9594904d4af9d53068228f4d78d35d7e3ef5.png@320w_200h.jpg
+[2019-09-18T17:09:27.373] [INFO] http - referer: http://localhost:3010/video/av67522500
+[2019-09-18T17:09:27.390] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:27.390] [INFO] http - url: /transfer/image?pic=https://i2.hdslb.com/bfs/archive/0b64dfb702a0e0a668347954452d0cfe9cbaa170.jpg@320w_200h.jpg
+[2019-09-18T17:09:27.390] [INFO] http - referer: http://localhost:3010/video/av67522500
+[2019-09-18T17:09:27.392] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:27.392] [INFO] http - url: /transfer/image?pic=https://i2.hdslb.com/bfs/archive/d9d3ddc690da1bbfc3f02d71f660214b4fe45079.jpg@320w_200h.jpg
+[2019-09-18T17:09:27.392] [INFO] http - referer: http://localhost:3010/video/av67522500
+[2019-09-18T17:09:27.425] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:27.425] [INFO] http - url: /transfer/image?pic=https://i1.hdslb.com/bfs/archive/7dc181b28b2e3c31aa579531398786291c04344f.jpg@320w_200h.jpg
+[2019-09-18T17:09:27.425] [INFO] http - referer: http://localhost:3010/video/av67522500
+[2019-09-18T17:09:27.452] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:27.452] [INFO] http - url: /transfer/image?pic=https://i0.hdslb.com/bfs/archive/03baf05ec0646ffeac79cbe9da7da0f129209529.jpg@320w_200h.jpg
+[2019-09-18T17:09:27.452] [INFO] http - referer: http://localhost:3010/video/av67522500
+[2019-09-18T17:09:27.477] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:27.477] [INFO] http - url: /transfer/image?pic=https://i2.hdslb.com/bfs/archive/58779b34cca15e26425b6b30e4535ab2e9df357b.jpg@320w_200h.jpg
+[2019-09-18T17:09:27.477] [INFO] http - referer: http://localhost:3010/video/av67522500
+[2019-09-18T17:09:27.526] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:27.526] [INFO] http - url: /transfer/image?pic=https://i0.hdslb.com/bfs/archive/7e6ba3211758cdd7962107a20eddb8f635662855.jpg@320w_200h.jpg
+[2019-09-18T17:09:27.526] [INFO] http - referer: http://localhost:3010/video/av67522500
+[2019-09-18T17:09:27.632] [INFO] http - ====== Visit api server ======
+[2019-09-18T17:09:27.632] [INFO] http - url: /transfer/image?pic=https://i2.hdslb.com/bfs/archive/f1e1662520d5d0eeda3649699f8cc1ff8f00b0cb.jpg@320w_200h.jpg
+[2019-09-18T17:09:27.632] [INFO] http - referer: http://localhost:3010/video/av67522500
+[2019-09-18T17:09:34.344] [ERROR] http - FetchError: request to http://i2.hdslb.com/bfs/archive/66f1ad4319950a8de9ae011090a3248cdc8023de.jpg@320w_200h.jpg failed, reason: socket hang up
+    at ClientRequest.<anonymous> (F:\project\react-bilibili-master\bilibili-api\node_modules\node-fetch\lib\index.js:1444:11)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at Socket.socketOnEnd (_http_client.js:423:9)
+    at emitNone (events.js:111:20)
+    at Socket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at _combinedTickCallback (internal/process/next_tick.js:139:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+[2019-09-18T17:09:40.953] [ERROR] http - FetchError: request to http://i2.hdslb.com/bfs/archive/b31cf7b78c92b817aefe210b94c79354967b3710.jpg@320w_200h.jpg failed, reason: connect ETIMEDOUT 113.16.212.190:80
+    at ClientRequest.<anonymous> (F:\project\react-bilibili-master\bilibili-api\node_modules\node-fetch\lib\index.js:1444:11)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at Socket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:66:8)
+    at _combinedTickCallback (internal/process/next_tick.js:139:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
